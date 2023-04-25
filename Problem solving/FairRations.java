@@ -1,14 +1,6 @@
 import java.util.*;
 
 class Result {
-
-    /*
-     * Complete the 'fairRations' function below.
-     *
-     * The function is expected to return a STRING.
-     * The function accepts INTEGER_ARRAY B as parameter.
-     */
-
     public static String fairRations(List<Integer> B) {
     int result = 0;
     
