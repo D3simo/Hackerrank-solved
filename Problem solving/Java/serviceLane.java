@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-class Result {
+class ServiceLane {
     public static List<Integer> serviceLane(List<Integer> width, List<List<Integer>> cases) {
         List<Integer> result = new ArrayList<>();
         for(int i = 0; i < cases.size(); i++) {

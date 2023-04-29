@@ -1,4 +1,4 @@
-class Result {
+class FindDigits {
     public static int findDigits(int n) {
         // Write your code here
         int temp = n, count = 0;

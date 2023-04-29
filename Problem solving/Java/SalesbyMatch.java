@@ -1,6 +1,6 @@
 import java.util.List;
 
-class Result {
+class SalesByMatch {
     public static int sockMerchant(int n, List<Integer> ar) {
         
         int arr[] = new int[110];
